@@ -19,6 +19,10 @@
 ## Let's Get Started! 💻🚀
 - Dive into the code, explore the possibilities, and embark on this exhilarating journey together!
 
+<p align="center">
+  <img src="Videos/read.webm" alt="Video">
+</p>
+
 ## Setup
 
 Follow these steps to set up the project locally:
