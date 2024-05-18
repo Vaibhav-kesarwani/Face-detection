@@ -73,5 +73,7 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 ## Contact
 
 If you have any questions or suggestions, feel free to reach out to me at [PORTFOLIO](https://vaibhav-kesarwani.vercel.app).
-Happy face detecting! 😊👀
+<br/>
+
+### Happy face detecting! 😊👀
 
