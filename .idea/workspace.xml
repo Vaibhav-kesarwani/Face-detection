@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="da5ac2e7-d796-4e1b-a8a7-caa0d262ecdc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Videos/1.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Videos/2.mp4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FaceDetection.py" beforeDir="false" afterPath="$PROJECT_DIR$/FaceDetection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceDetectionModule.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +37,7 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Python.FaceDetection.executor": "Run",
+    "Python.FaceDetectionModule.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "master",
