@@ -17,7 +17,7 @@
 - **Community Engagement**: Let's engage with the community, exchange ideas, and inspire each other in the realm of machine learning.
 
 ## Let's Get Started! 💻🚀
-- Dive into the code, explore the possibilities, and embark on this exhilarating journey together!
+- Dive into the code, explore the possibilities, and embark on this exhilarating journey together!!
 
 ## Demo
 [Face-Detection.webm](https://github.com/Vaibhav-kesarwani/Face-detection/assets/116189379/bcf5bfc3-30cb-4115-b9bf-5ea656500fdc)
