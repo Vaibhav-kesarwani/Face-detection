@@ -19,7 +19,10 @@
 ## Let's Get Started! 💻🚀
 - Dive into the code, explore the possibilities, and embark on this exhilarating journey together!
 
-[Demo](https://github.com/Vaibhav-kesarwani/Face-detection/assets/116189379/e5a60adc-a8e3-457e-b92e-4acced8561ad)
+<br/><br/>
+
+[Face-Detection.webm](https://github.com/Vaibhav-kesarwani/Face-detection/assets/116189379/bcf5bfc3-30cb-4115-b9bf-5ea656500fdc)
+
 
 ## Setup
 
