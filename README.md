@@ -48,7 +48,7 @@ pip install -r
 ### 4. Run the App
 
 ```bash
-python main.py
+python FaceDetection.py
 ```
 ## Usage
 
